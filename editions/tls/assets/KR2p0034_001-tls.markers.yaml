@@ -652,6 +652,7 @@ markers:
   - {type: punctuation, offset: 1018, content: '[', id: KR2p0034_tls_001-bkkpn275}
   - {type: punctuation, offset: 1019, content: ']', id: KR2p0034_tls_001-bkkpn276}
   - {type: punctuation, offset: 1019, content: (, id: KR2p0034_tls_001-bkkpn277}
+  - {type: voice, offset: 1019, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1020, content: ), id: KR2p0034_tls_001-bkkpn278}
   - {type: punctuation, offset: 1021, content: '[', id: KR2p0034_tls_001-bkkpn279}
   - {type: punctuation, offset: 1023, content: ']', id: KR2p0034_tls_001-bkkpn280}
@@ -831,10 +832,12 @@ markers:
   - {type: 'tls:seg', offset: 1376, content: '', id: KR2p0034_tls_001-41a.5}
   - {type: punctuation, offset: 1380, content: (, id: KR2p0034_tls_001-bkkpn341}
   - {type: punctuation, offset: 1380, content: '=', id: KR2p0034_tls_001-bkkpn342}
+  - {type: voice, offset: 1380, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1381, content: ), id: KR2p0034_tls_001-bkkpn343}
   - {type: punctuation, offset: 1382, content: '[', id: KR2p0034_tls_001-bkkpn344}
   - {type: punctuation, offset: 1383, content: ']', id: KR2p0034_tls_001-bkkpn345}
   - {type: punctuation, offset: 1383, content: (, id: KR2p0034_tls_001-bkkpn346}
+  - {type: voice, offset: 1383, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1384, content: ), id: KR2p0034_tls_001-bkkpn347}
   - {type: 'tls:seg', offset: 1386, content: '', id: KR2p0034_tls_001-41a.6}
   - {type: 'tls:seg', offset: 1388, content: '', id: KR2p0034_tls_001-41a.7}
@@ -854,6 +857,7 @@ markers:
   - {type: punctuation, offset: 1431, content: ，, id: KR2p0034_tls_001-bkkpn352}
   - {type: 'tls:seg', offset: 1431, content: '', id: KR2p0034_tls_001-42a.5}
   - {type: punctuation, offset: 1433, content: (, id: KR2p0034_tls_001-bkkpn353}
+  - {type: voice, offset: 1433, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1434, content: ), id: KR2p0034_tls_001-bkkpn354}
   - {type: 'tls:seg', offset: 1434, content: '', id: KR2p0034_tls_001-42a.6}
   - {type: 'tls:seg', offset: 1436, content: '', id: KR2p0034_tls_001-42a.7}
@@ -866,4 +870,4 @@ markers:
   - {type: 'tls:seg', offset: 1447, content: '', id: KR2p0034_tls_001-42a.9}
   - {type: xml-element, offset: 1449, content: '', id: KR2p0034_tls_001-bkkxmlele84, name: p, role: close, attrs: {source: 'SHANGBO XINGQINGLUN 1.3.42. SLIPS 38-39 JI XUSHENG 1: 209'}}
   back: []
-hash: sha256:2a41080f549285ea52fa4e84e3d30aed416a1686f3c4cbe3cb20cbf1e5184986
+hash: sha256:cf5d7eedf4d63cee593f72f6b191409ac2deb655f3e183e8f1544491af2204e9
